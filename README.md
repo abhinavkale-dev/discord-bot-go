@@ -2,11 +2,17 @@
 
 A simple Discord bot written in Go that implements slash commands.
 
+## Bot Commands
+
+![Discord Bot Commands](bot_commands.png)
+*The bot provides slash commands for easy interaction*
+
 ## Features
 
 - `/ping` - Bot responds with "Pong!"
 - `/start` - Bot responds with a startup message
 - `/dance` - Bot performs a dance emoji sequence
+
 
 ## Requirements
 
